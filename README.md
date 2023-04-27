@@ -1,2 +1,1 @@
-# Hello-repo
-my first repository on Github
+# this is a comment
